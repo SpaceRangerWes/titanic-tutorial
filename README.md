@@ -28,3 +28,6 @@ Create a Jupyter notebook of your own in master with a unique name so that our s
 * [SciPy](http://www.scipy.org/)
 * [StatsModels](http://statsmodels.sourceforge.net/)
 * [Matplotlib](http://matplotlib.org/)
+
+## Interested in Apache Spark instead of Pandas?
+Good news. I'm building out the titanic tutorial using Spark 1.6. Just follow this [link](http://spacerangerwes.github.io/titanic_tutorial_spark16.html) for a nice little walkthrough and try loading the included Jupyter notebook to your Databricks online notebook.
