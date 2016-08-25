@@ -90,6 +90,15 @@ Coming soon...
     $ pip install -r requirements.txt
     ```
 
+## Running the Notebook
+
+To run the Jupyter notebook:
+```
+$ jupyter notebook
+```
+
+Then in your web browser, go to the `localhost:####` URL given in the Terminal output if it doesn't automatically open.
+
 ## Interested in Apache Spark instead of Pandas?
 
 Good news. I'm building out the titanic tutorial using Spark 1.6. Just follow this
