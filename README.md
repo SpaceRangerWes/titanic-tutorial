@@ -76,7 +76,7 @@ Coming soon...
 4.  Activate the environment:
 
     ```
-    $ source env/bin/activate
+    $ source venv/bin/activate
     ```
 
 5.  Verify that you're using Python 3:
